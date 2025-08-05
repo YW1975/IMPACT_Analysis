@@ -69,6 +69,7 @@ npm run dev
 
 5. 访问应用
 在浏览器中打开 http://localhost:3000
+或者查看在线原型：https://qxvdzb1752549338039.auto.yunji-ai.cn
 
 ## 平台架构
 
